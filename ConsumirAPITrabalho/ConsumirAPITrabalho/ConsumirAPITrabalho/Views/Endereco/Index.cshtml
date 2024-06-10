@@ -1,0 +1,31 @@
+﻿@model List<WebAPI.Model.Endereco>
+
+<h1>Lista de Endereços</h1>
+
+<p>
+    <a class="btn btn-sucess" asp-action="Create">Adicionar Endereco</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>EnderecoId</th>
+            <th>Rua</th>
+            <th>Cidade</th>
+            <th>Estado</th>
+            <th>CEP</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var endereco in Model)
+        {
+            <tr>
+                <td>@endereco.EnderecoId</td>
+                <td>@endereco.Rua</td>
+                <td>@endereco.Cidade</td>
+                <td>@endereco.Estado</td>
+                <td>@endereco.CEP</td>
+            </tr>
+        }
+    </tbody>
+</table>

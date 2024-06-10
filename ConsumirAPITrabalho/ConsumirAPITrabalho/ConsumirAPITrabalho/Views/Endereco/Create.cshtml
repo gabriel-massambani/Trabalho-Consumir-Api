@@ -1,0 +1,23 @@
+﻿@model List<WebAPI.Model.Endereco>
+
+<h1>Cadastrar Endereço</h1>
+
+<form method="post">
+    <div class="form-group">
+        <label for="Rua">Rua:</label>
+        <input type="text" class="form-control" id="Rua" name="Rua" required>
+    </div>
+    <div class="form-group">
+        <label for="Cidade">Cidade:</label>
+        <input type="text" class="form-control" id="Cidade" name="Cidade" required>
+    </div>
+    <div class="form-group">
+        <label for="Estado">Estado:</label>
+        <input type="text" class="form-control" id="Estado" name="Estado" required>
+    </div>
+    <div class="form-group">
+        <label for="CEP">CEP:</label>
+        <input type="text" class="form-control" id="CEP" name="CEP" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Cadastrar</button>
+</form>

@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51FF3F4C-CC5E-4312-B4B0-C0F61F204D71}|WebAPI\\WebAPI.csproj|c:\\users\\usuario\\source\\repos\\webapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FF3F4C-CC5E-4312-B4B0-C0F61F204D71}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FF3F4C-CC5E-4312-B4B0-C0F61F204D71}|WebAPI\\WebAPI.csproj|c:\\users\\usuario\\source\\repos\\webapi\\webapi\\migrations\\20240609235322_secundaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FF3F4C-CC5E-4312-B4B0-C0F61F204D71}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\migrations\\20240609235322_secundaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FF3F4C-CC5E-4312-B4B0-C0F61F204D71}|WebAPI\\WebAPI.csproj|c:\\users\\usuario\\source\\repos\\webapi\\webapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FF3F4C-CC5E-4312-B4B0-C0F61F204D71}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FF3F4C-CC5E-4312-B4B0-C0F61F204D71}|WebAPI\\WebAPI.csproj|c:\\users\\usuario\\source\\repos\\webapi\\webapi\\model\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FF3F4C-CC5E-4312-B4B0-C0F61F204D71}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\model\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FF3F4C-CC5E-4312-B4B0-C0F61F204D71}|WebAPI\\WebAPI.csproj|c:\\users\\usuario\\source\\repos\\webapi\\webapi\\model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FF3F4C-CC5E-4312-B4B0-C0F61F204D71}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FF3F4C-CC5E-4312-B4B0-C0F61F204D71}|WebAPI\\WebAPI.csproj|c:\\users\\usuario\\source\\repos\\webapi\\webapi\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FF3F4C-CC5E-4312-B4B0-C0F61F204D71}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FF3F4C-CC5E-4312-B4B0-C0F61F204D71}|WebAPI\\WebAPI.csproj|c:\\users\\usuario\\source\\repos\\webapi\\webapi\\controllers\\enderecoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FF3F4C-CC5E-4312-B4B0-C0F61F204D71}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\enderecoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FF3F4C-CC5E-4312-B4B0-C0F61F204D71}|WebAPI\\WebAPI.csproj|c:\\users\\usuario\\source\\repos\\webapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51FF3F4C-CC5E-4312-B4B0-C0F61F204D71}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51FF3F4C-CC5E-4312-B4B0-C0F61F204D71}|WebAPI\\WebAPI.csproj|c:\\users\\usuario\\source\\repos\\webapi\\webapi\\migrations\\20240603224542_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51FF3F4C-CC5E-4312-B4B0-C0F61F204D71}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\migrations\\20240603224542_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240609235322_secundaria.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\WebAPI\\WebAPI\\Migrations\\20240609235322_secundaria.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Migrations\\20240609235322_secundaria.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\WebAPI\\WebAPI\\Migrations\\20240609235322_secundaria.cs",
+              "RelativeToolTip": "WebAPI\\Migrations\\20240609235322_secundaria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T23:53:23.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnderecosController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\WebAPI\\WebAPI\\Controllers\\EnderecosController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\EnderecosController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\WebAPI\\WebAPI\\Controllers\\EnderecosController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\EnderecosController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAIwGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:57:24.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\WebAPI\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwBgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:44:20.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\WebAPI\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T22:43:01.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\WebAPI\\WebAPI\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\WebAPI\\WebAPI\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "WebAPI\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:35:45.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\WebAPI\\WebAPI\\Model\\Cliente.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Model\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\WebAPI\\WebAPI\\Model\\Cliente.cs",
+              "RelativeToolTip": "WebAPI\\Model\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:27:13.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\WebAPI\\WebAPI\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\WebAPI\\WebAPI\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAIwGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:55:14.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\WebAPI\\WebAPI\\Model\\Endereco.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Model\\Endereco.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\WebAPI\\WebAPI\\Model\\Endereco.cs",
+              "RelativeToolTip": "WebAPI\\Model\\Endereco.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:32:48.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240603224542_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\WebAPI\\WebAPI\\Migrations\\20240603224542_initial.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Migrations\\20240603224542_initial.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\WebAPI\\WebAPI\\Migrations\\20240603224542_initial.cs",
+              "RelativeToolTip": "WebAPI\\Migrations\\20240603224542_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:45:42.797Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

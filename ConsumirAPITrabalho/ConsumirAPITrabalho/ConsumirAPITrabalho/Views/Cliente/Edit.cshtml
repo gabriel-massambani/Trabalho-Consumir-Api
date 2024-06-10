@@ -1,0 +1,21 @@
+﻿@model WebAPI.Model.Cliente
+
+<h1>Editar Cliente</h1>
+
+<form method="post">
+    <div class="form-group">
+        <label for="Nome">Nome:</label>
+        <input type="text" class="form-control" id="Nome" name="Nome" value="@Model.Nome" required>
+    </div>
+    <div class="form-group">
+        <label for="Email">Email:</label>
+        <input type="email" class="form-control" id="Email" name="Email" value="@Model.Email" required>
+    </div>
+    <div class="form-group">
+        <label for="EnderecoId">EnderecoId:</label>
+        <input type="number" class="form-control" id="EnderecoId" name="EnderecoId" value="@Model.EnderecoId" required>
+    </div>
+    <input type="hidden" asp-for="ClienteId" />
+    <button type="submit" class="btn btn-primary">Salvar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>
